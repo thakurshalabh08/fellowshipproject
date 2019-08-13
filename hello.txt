@@ -1,7 +1,6 @@
 hello
 there
 
-
 This short bit of text is startling to be a little limiting 
 It would be good to have more text to show something more 
 interesting happening that is a little more like a real-world 
